@@ -18,7 +18,7 @@ import { Twitter } from 'react-bytesize-icons';
 
 
 ReactDOM.render(
-  <Compose width={50} height={50} color="#1da1f2" />,
+  <Twitter width={50} height={50} color="#1da1f2" />,
   document.getElementById('root')
 );
 ```
