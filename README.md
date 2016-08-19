@@ -7,7 +7,24 @@ Find the origninal [SVG icons here](https://github.com/danklammer/bytesize-icons
 
 `npm install --save react-bytesize-icons`  
 
-### Components reference.
+### How to use?
+Here's an example for using the `<Twitter/>` component.  
+
+```javascript
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import { Twitter } from 'react-bytesize-icons';
+
+
+ReactDOM.render(
+  <Compose width={50} height={50} color="#1da1f2" />,
+  document.getElementById('root')
+);
+```
+
+
+### Components reference
 
 Component Name  | Component Markup  | Preview | Optional Props
 --- | --- | --- | ---
@@ -90,3 +107,5 @@ User  | `<User/>` | ![User](https://cdn.rawgit.com/abdelhai/react-bytesize-icons
 Video | `<Video/>`  | ![Video](https://cdn.rawgit.com/abdelhai/react-bytesize-icons/master/icons/video.svg)   | `width=32, height=32, strokeWidth='6.25%', strokeLinejoin='round', strokeLinecap='round', color='currentcolor'`
 Volume  | `<Volume/>` | ![Volume](https://cdn.rawgit.com/abdelhai/react-bytesize-icons/master/icons/volume.svg)   | `width=32, height=32, strokeWidth='6.25%', strokeLinejoin='round', strokeLinecap='round', color='currentcolor'`
 Work  | `<Work/>` | ![Work](https://cdn.rawgit.com/abdelhai/react-bytesize-icons/master/icons/work.svg)   | `width=32, height=32, strokeWidth='6.25%', strokeLinejoin='round', strokeLinecap='round', color='currentcolor'`
+
+### If you have any questions, then join our [DevChat Slack group!](https://devchat.devolio.net/)  
