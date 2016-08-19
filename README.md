@@ -25,7 +25,7 @@ ReactDOM.render(
 
 
 ### Components reference
-
+Check out [this guide](https://github.com/danklammer/bytesize-icons#recommended-styles) on how to use the different styles/props listed in the table.  
 Component Name  | Component Markup  | Preview | Optional Props
 --- | --- | --- | ---
 Activity  | `<Activity/>` | ![Activity](https://cdn.rawgit.com/abdelhai/react-bytesize-icons/master/icons/activity.svg)   | `width=32, height=32, strokeWidth='6.25%', strokeLinejoin='round', strokeLinecap='round', color='currentcolor'`
