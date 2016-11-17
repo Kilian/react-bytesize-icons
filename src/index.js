@@ -498,7 +498,7 @@ export const Reload = ({width=32, height=32, strokeWidth='6.25%', strokeLinejoin
   </svg>
 )
 
-export const HorizontalEllipsis = ({width=32, height=32, strokeWidth='6.25%', strokeLinejoin='round', strokeLinecap='round', color='currentcolor'}) => (
+export const EllipsisHorizontal = ({width=32, height=32, strokeWidth='6.25%', strokeLinejoin='round', strokeLinecap='round', color='currentcolor'}) => (
   <svg id="i-ellipsis-horizontal" viewBox="0 0 32 32" width={width} height={height} fill="none" stroke={color} strokeLinecap={strokeLinecap} strokeLinejoin={strokeLinejoin} strokeWidth={strokeWidth}>
     <circle cx="7" cy="16" r="2" />
     <circle cx="16" cy="16" r="2" />
@@ -506,7 +506,7 @@ export const HorizontalEllipsis = ({width=32, height=32, strokeWidth='6.25%', st
   </svg>
 )
 
-export const VerticalEllipsis = ({width=32, height=32, strokeWidth='6.25%', strokeLinejoin='round', strokeLinecap='round', color='currentcolor'}) => (
+export const EllipsisVertical = ({width=32, height=32, strokeWidth='6.25%', strokeLinejoin='round', strokeLinecap='round', color='currentcolor'}) => (
   <svg id="i-ellipsis-vertical" viewBox="0 0 32 32" width={width} height={height} fill="none" stroke={color} strokeLinecap={strokeLinecap} strokeLinejoin={strokeLinejoin} strokeWidth={strokeWidth}>
     <circle cx="16" cy="7" r="2" />
     <circle cx="16" cy="16" r="2" />
