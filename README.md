@@ -1,6 +1,6 @@
-##Bytesize icons as React components.  
+## Bytesize icons as React components.  
 All the icons were designed by [Dan Klammer](https://github.com/danklammer).  
-Find the origninal [SVG icons here](https://github.com/danklammer/bytesize-icons).  
+Find the original [SVG icons here](https://github.com/danklammer/bytesize-icons).  
 
 
 ### How to install?
