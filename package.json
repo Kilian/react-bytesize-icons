@@ -2,9 +2,9 @@
   "name": "react-bytesize-icons",
   "version": "0.8.3",
   "description": "Bytesize Icons as React Components.",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
-    "prepublish": "node_modules/babel-cli/bin/babel.js src --out-dir lib"
+    "prepublish": "node_modules/babel-cli/bin/babel.js src --out-dir ./"
   },
   "repository": {
     "type": "git",

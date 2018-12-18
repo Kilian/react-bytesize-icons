@@ -5,7 +5,7 @@ Find the original [SVG icons here](https://github.com/danklammer/bytesize-icons)
 
 ### How to install?
 
-`npm install --save react-bytesize-icons`  
+`npm install --save react-bytesize-icons`
 
 ### How to use?
 Here's an example for using the `<Twitter/>` component.  
@@ -16,13 +16,17 @@ import ReactDOM from 'react-dom';
 
 import { Twitter } from 'react-bytesize-icons';
 
-
 ReactDOM.render(
   <Twitter width={50} height={50} color="#1da1f2" />,
   document.getElementById('root')
 );
 ```
 
+You can also import this as following.
+```
+import Twitter from 'react-bytesize-icons/Twitter';
+```
+You should follow the import method which suits your needs. For details check [#9](https://github.com/abdelhai/react-bytesize-icons/pull/9).
 
 ### Components reference
 Check out [this guide](https://github.com/danklammer/bytesize-icons#recommended-styles) on how to use the different styles/props listed in the table.  
