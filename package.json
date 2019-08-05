@@ -1,6 +1,6 @@
 {
   "name": "react-bytesize-icons",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Bytesize Icons as React Components.",
   "main": "index.js",
   "module": "esm/index.js",
