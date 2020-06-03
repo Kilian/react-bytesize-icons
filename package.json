@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdelhai/react-bytesize-icons.git"
+    "url": "git+https://github.com/Kilian/react-bytesize-icons.git"
   },
   "keywords": [
     "bytesize",
@@ -23,12 +23,15 @@
     "react",
     "components"
   ],
-  "author": "Mustafa Abdelhai <mustafa@devolio.net> (https://devolio.net)",
+  "authors": [
+    "Mustafa Abdelhai <mustafa@devolio.net> (https://devolio.net)",
+    "Kilian Valkhof <kilian@kilianvalkhof.com> (https://kilianvalkhof.com)"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abdelhai/react-bytesize-icons/issues"
+    "url": "https://github.com/Kilian/react-bytesize-icons/issues"
   },
-  "homepage": "https://github.com/abdelhai/react-bytesize-icons#readme",
+  "homepage": "https://github.com/Kilian/react-bytesize-icons#readme",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
